@@ -1,0 +1,16 @@
+Flask==3.0.3
+flask-cors==4.0.1
+
+pygame==2.6.0
+edge-tts==6.1.12
+
+SpeechRecognition==3.10.4
+pyaudio==0.2.14
+
+google-generativeai==0.7.2
+google-api-core==2.19.1
+
+python-dotenv==1.0.1
+
+# Optional but recommended for stability
+numpy==1.26.4
